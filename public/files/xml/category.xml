@@ -1,0 +1,21 @@
+<bookstore><category>
+                                   <id>1</id>
+                                   <name>Văn hóa - Nghệ thuật  - Du lịch</name>
+                                   <picture>Re4ch.jpg</picture>                  
+                                </category><category>
+                                   <id>2</id>
+                                   <name>Nghệ thuật</name>
+                                   <picture>Re4ch.jpg</picture>                  
+                                </category><category>
+                                   <id>3</id>
+                                   <name>khoa học - nhân văn</name>
+                                   <picture>Re4ch.jpg</picture>                  
+                                </category><category>
+                                   <id>4</id>
+                                   <name>Kinh tế vĩ mô</name>
+                                   <picture>Re4ch.jpg</picture>                  
+                                </category><category>
+                                   <id>5</id>
+                                   <name>Luật học</name>
+                                   <picture>xODad.png</picture>                  
+                                </category></bookstore>
